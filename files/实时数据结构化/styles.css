@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-0px;
-  width:1510px;
+  width:1540px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -151,7 +151,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1510px;
+  width:1540px;
   height:720px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -168,14 +168,14 @@
   position:absolute;
   left:0px;
   top:50px;
-  width:1510px;
+  width:1540px;
   height:720px;
 }
 #u96 {
   position:absolute;
   left:2px;
   top:352px;
-  width:1506px;
+  width:1536px;
   visibility:hidden;
   word-wrap:break-word;
 }
