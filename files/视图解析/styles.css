@@ -396,3 +396,12 @@
   width:1160px;
   height:800px;
 }
+#u46 {
+  position:absolute;
+  left:0px;
+  top:800px;
+  width:100px;
+  height:60px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
