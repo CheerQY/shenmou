@@ -17,7 +17,7 @@
   left:0px;
   top:0px;
   width:600px;
-  height:700px;
+  height:580px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -34,12 +34,12 @@
   left:0px;
   top:0px;
   width:600px;
-  height:700px;
+  height:580px;
 }
 #u1006 {
   position:absolute;
   left:2px;
-  top:342px;
+  top:282px;
   width:596px;
   visibility:hidden;
   word-wrap:break-word;
@@ -129,8 +129,8 @@
 }
 #u1011 {
   position:absolute;
-  left:384px;
-  top:640px;
+  left:388px;
+  top:510px;
   width:80px;
   height:35px;
   font-family:'微软雅黑';
@@ -184,8 +184,8 @@
 }
 #u1013 {
   position:absolute;
-  left:476px;
-  top:640px;
+  left:480px;
+  top:510px;
   width:80px;
   height:35px;
 }
